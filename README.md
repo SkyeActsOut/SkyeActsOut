@@ -1,8 +1,8 @@
 # Heya! :)
 
-My name is Skye, but I'm also known as SkyMocha! I am a content creator on the channel [SkyMocha](https://www.youtube.com/c/NickStudiosCode), and an independent developer. 
+My name is Skye, but I'm also known as SkyMocha! I go by they/she pronouns and am currently a senior in high-school. I work primarily as a content creator on the channel [SkyMocha](https://www.youtube.com/c/NickStudiosCode) and as an independent developer. 
 
-I primarily focus on Full-stack and GameDev.
+My development foci are FullStack & GameDev.
 
 You can find my portoflio on [SkyMocha.net](https://www.skymocha.net/Projects/), or a entire list of projects can be found on this Github!
 
