@@ -1,4 +1,4 @@
-# Heya! :)
+## Heya! :)
 
 My name is Skye, but I'm also known as SkyMocha! I go by they/she pronouns and am currently a senior in high-school. I work primarily as a content creator on the channel [SkyMocha](https://www.youtube.com/c/NickStudiosCode) and as an independent developer. 
 
