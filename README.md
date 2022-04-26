@@ -25,7 +25,7 @@ Thanks for taking a look ♥️
 > "Why The Trans Programmer?" IEEE ISEC 2022
 
 > ["Don't Talk About Fight Club"](https://www.skymocha.net/Projects/FightClubIncels/)
-> (Kychenthal, Skye. “Don't Talk About Fight Club.” skymocha.net, 12 Feb. 2022. Web.)[https://skymocha.net/Projects/FightClubIncels/]
+> Kychenthal, Skye. “Don't Talk About Fight Club.” skymocha.net, 12 Feb. 2022. Web.
 
 ### Current YouTube Projects
 > ["Why Women Don't Code, But Trans Women Do"](https://youtu.be/k3lAdCd6f84)
