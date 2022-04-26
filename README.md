@@ -22,12 +22,12 @@ Thanks for taking a look ♥️
 ### Papers
 > [ORCID ID: 0000-0001-9770-9224](https://orcid.org/0000-0001-9770-9224)
 
-> "Why The Trans Programmer?" TBA @ ISEC IEEE 2022
+> "Why The Trans Programmer?" IEEE ISEC 2022
 
 > ["Don't Talk About Fight Club"](https://www.skymocha.net/Projects/FightClubIncels/)
-> (Kychenthal, Skye. “Don't Talk About Fight Club.” skymocha.net, 12 Feb. 2022. Web.)
+> (Kychenthal, Skye. “Don't Talk About Fight Club.” skymocha.net, 12 Feb. 2022. Web.)[https://skymocha.net/Projects/FightClubIncels/]
 
 ### Current YouTube Projects
-> Why The Trans Programmer V2 (Name TBA)
+> ["Why Women Don't Code, But Trans Women Do"](https://youtu.be/k3lAdCd6f84)
 
-> "Fight Club's Incel to Exploitable Chad Pipeline"
+> "Fight Club's Incel to Exploitable Chad Pipeline" TBA
