@@ -1,33 +1,36 @@
-## Heya! :)
+## Skye Kychenthal! :)
 
-My name is Skye, but I'm also known online as SkyMocha! I go by they/she pronouns and am currently a senior @ The Peddie School and this fall will be a Freshmen @ Reed College. I work primarily as a content creator on the channel [SkyMocha](https://www.youtube.com/c/NickStudiosCode) and as an independent developer. 
+I am a trans-feminine non-binary jack-of-all-trades video-essayist, editor, photographer, poet, TikToker, model, programmer, sysadmin (unfortunate), researcher, and much, much more located in Portland, Oregon. You can find my links at [skymochi64.gay](https://www.skymochi64.gay)
 
-My development foci are FullStack & GameDev.
+You can find me under one of three aliases:
 
-You can find my portoflio on [SkyMocha.net](https://www.skymocha.net/Projects/), or a entire list of projects can be found on this Github!
+* SkyMocha (SFW)
+* SkyMochi64 (SFW)
+* SkyMochi256 (NSFW)
 
-My resume can also be found [here](https://www.skymocha.net/resume.pdf)!
+I graduated from The Peddie School in 2022. Since then, I have tried many things. Among the things I decided were not for me is college. I currently work as a video editor for [Nominal.Naomi](https://www.tiktok.com/@nominal.naomi), run an OnlyFans account, engage in local activism, and create entertainment & educational content on YouTube and TikTok.
+
+My development foci are FullStack & GameDev. You can find my list of publications & major projects at https://www.skyekychenthal.com/publications
 
 Thanks for taking a look ♥️
 
 ### Main Coding Projects
+
+#### Learning Projects
 > [TARPG](https://github.com/SkyMocha/TARPG)
-
-> [SkyMocha Website](https://github.com/SkyMocha/SkyMocha-Website)
-
-> [SkyMocha Discord Bot](https://github.com/SkyMocha/SkyMochaBot)
 
 > [5895 Pit](https://github.com/SkyMocha/5895-Pit)
 
+#### Production Products & Packages
+
+> [SkyMocha Discord Bot](https://github.com/SkyMocha/SkyMochaBot)
+
+> [NPM: discord-quiz](https://www.npmjs.com/package/discord-quiz)
+
 ### Papers
-> [ORCID ID: 0000-0001-9770-9224](https://orcid.org/0000-0001-9770-9224)
 
-> "Why The Trans Programmer?" IEEE ISEC 2022
+> Why The Trans Programmer?. 2022 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, USA, 2022, pp. 117-122, doi: 10.1109/ISEC54952.2022.10025288.
 
-> ["Don't Talk About Fight Club"](https://www.skymocha.net/Projects/FightClubIncels/)
-> Kychenthal, Skye. “Don't Talk About Fight Club.” skymocha.net, 12 Feb. 2022. Web.
+> _Fight Club’s Incel To Exploitable Chad Pipeline_. YouTube. October 23, 2022.
 
-### Current YouTube Projects
-> ["Why Women Don't Code, But Trans Women Do"](https://youtu.be/k3lAdCd6f84)
-
-> "Fight Club's Incel to Exploitable Chad Pipeline" TBA
+>  _The Gender Critical Virus_. YouTube. January 7, 2023.
