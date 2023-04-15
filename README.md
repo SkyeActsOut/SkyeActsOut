@@ -34,3 +34,5 @@ Thanks for taking a look ♥️
 > _Fight Club’s Incel To Exploitable Chad Pipeline_. YouTube. October 23, 2022.
 
 >  _The Gender Critical Virus_. YouTube. January 7, 2023.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
