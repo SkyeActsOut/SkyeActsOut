@@ -16,4 +16,7 @@ Based on the @ nominal.naomi research masterdoc, masterdoc.info is a master docu
 # Publications
 Kychenthal, Skye. “Why the Trans Programmer?” 2022 IEEE Integrated STEM Education Conference (ISEC), March 26, 2022, 117–22. [https://doi.org/10.1109/isec54952.2022.10025288](https://doi.org/10.1109/isec54952.2022.10025288).
 
+# Bylines
+Kychenthal, Skye. "[A Deep Dive into Reed’s Freshman Retention Woes.](https://www.reedquest.org/articles/2022/10/27/a-deep-dive-into-reeds-freshman-retention-woes)" Quest, October 27, 2022.
+
 Thanks for taking a look ♥ 
