@@ -1,3 +1,5 @@
+Due to personal issues with GitHub, I have moved over to [Codeberg](https://codeberg.org/skyeactsout/). I will be leaving up this GitHub page as a portfolio.
+
 # Skye Kychenthal
 Video Editor, Content Creator, Photographer, Programmer
 
