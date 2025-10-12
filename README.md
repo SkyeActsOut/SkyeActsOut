@@ -1,4 +1,4 @@
-Due to personal issues with GitHub, I have moved over to [Codeberg](https://codeberg.org/skyeactsout/). I will be leaving up this GitHub page as a portfolio.
+Due to personal issues with GitHub, I have moved over to [Codeberg](https://codeberg.org/skyeactsout/) for projects I own the repository to such as [YTTT](https://codeberg.org/YourTurnToThrive).
 
 # Skye Kychenthal
 Video Editor, Content Creator, Photographer, Programmer
