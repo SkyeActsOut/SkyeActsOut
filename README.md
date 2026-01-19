@@ -1,6 +1,6 @@
 Due to personal issues with GitHub, I have moved some of my code over to [Codeberg](https://codeberg.org/skyeactsout/). For YTTT please see [git.yttt.org](https://git.yttt.org/).
 
-# Skye Kychenthal
+# SkyeActsOut
 
 · [socials](https://skyeactsout.com) · [portfolio](https://www.skyekychenthal.com/portfolio) ·
 
