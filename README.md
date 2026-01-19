@@ -12,7 +12,7 @@ Your Turn To Thrive is a visual novel and stage play sequel to [Your Turn To Die
 
 ## Pubiflora · Ongoing
 ![Pubiflora Banner](https://cdn.skyeactsout.com/Pubiflora/Banner/3000x1000.png)
-A WIP visual novel built on a minimal linear implementation of Your Turn To Thrive's engine.
+A WIP visual novel built on a minimal linear implementation of Your Turn To Thrive's engine. You can find the code for it [here](https://codeberg.org/skyeactsout/Pubiflora).
 
 # Publications
 Kychenthal, Skye. “Why the Trans Programmer?” 2022 IEEE Integrated STEM Education Conference (ISEC), March 26, 2022, 117–22. [https://doi.org/10.1109/isec54952.2022.10025288](https://doi.org/10.1109/isec54952.2022.10025288).
